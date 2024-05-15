@@ -27,6 +27,7 @@ If I'm not responding to any of your PRs or issues - feel free to remind me.
    <a href="https://www.typescriptlang.org/">typescript</a>,
    <a href="https://neovim.io/">cli-setup</a>,
    <a href="https://www.docker.com/">docker</a>,
+   <a href="https://www.ansible.com/">ansible</a>,
    <a href="https://en.wikipedia.org/wiki/Epstein_didn%27t_kill_himself">website-setup</a>,
   ]
  },
